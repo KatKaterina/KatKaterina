@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**KatKaterina/KatKaterina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kate and now I'm interested in frontend development technologies and studying JavaScript, in the past I'm a 1C programmer.
 
-Here are some ideas to get you started:
+##Skills
+- working with JavaScript, HTML, CSS, Node.js
+- сreating single-page applications (SPA)
+- developing components and usage React, React + Redux/Redux Toolkit
+- using NPM, Webpack, Git, GitHub actions
+- writing AJAX queries, SQL queries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Education
+Hexlet, program "Frontend developer"
+2021-2022
+
+Kemerovo State University
+Faculty of Information Technology, Automated Information Processing and Management Systems
+Engineer
+2000-2005
+
+##Professional experience
+1C programmer
+2006-2016, 2019-2020 
