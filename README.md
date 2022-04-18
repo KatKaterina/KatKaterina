@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kate and now I'm interested in frontend development technologies and studying JavaScript, in the past I'm a 1C programmer.
+I'm Kate and I'm interested in frontend development technologies and studying JavaScript, also I have experience as a 1C programmer in the past.
 
 ### Skills
 - working with JavaScript, HTML, CSS, Node.js
