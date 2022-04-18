@@ -9,7 +9,7 @@ I'm Kate and I'm interested in frontend development technologies and studying Ja
 - using NPM, Webpack, Git, GitHub actions
 - writing AJAX queries, SQL queries
 
-### Education
+#### Education
 Hexlet, program "Frontend developer"<Br>
 2021-2022
 
@@ -18,6 +18,6 @@ Faculty of Information Technology, Automated Information Processing and Manageme
 Engineer<Br>
 2000-2005
 
-### Professional experience
+#### Professional experience
 1C programmer<Br>
 2006-2016, 2019-2020 
