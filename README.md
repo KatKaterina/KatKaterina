@@ -2,7 +2,7 @@
 
 I'm Kate and I'm interested in frontend development technologies and studying JavaScript, also I have experience as a 1C programmer in the past.
 
-### Skills
+#### Skills
 - working with JavaScript, HTML, CSS, Node.js
 - сreating single-page applications (SPA)
 - developing components and usage React, React + Redux/Redux Toolkit
