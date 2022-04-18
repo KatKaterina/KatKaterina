@@ -10,14 +10,14 @@ I'm Kate and now I'm interested in frontend development technologies and studyin
 - writing AJAX queries, SQL queries
 
 ### Education
-Hexlet, program "Frontend developer"
+Hexlet, program "Frontend developer"<Br>
 2021-2022
 
-Kemerovo State University
-Faculty of Information Technology, Automated Information Processing and Management Systems
-Engineer
+Kemerovo State University<Br>
+Faculty of Information Technology, Automated Information Processing and Management Systems<Br>
+Engineer<Br>
 2000-2005
 
 ### Professional experience
-1C programmer
+1C programmer<Br>
 2006-2016, 2019-2020 
